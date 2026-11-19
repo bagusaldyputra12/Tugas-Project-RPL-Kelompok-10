@@ -65,8 +65,8 @@ Gunakan salah satu akun bawaan berikut untuk mencoba aplikasi.
 |---|---|---|
 | Admin | `admin@alfamidi.com` | `admin123` |
 | Pelapor | `pegawai@alfamidi.com` | `pegawai123` |
-| Teknisi | `teknisi@alfamidi.com` | `teknisi123` |
-| Teknisi | `andi@alfamidi.com` | `teknisi123` |
+| Teknisi 1 | `teknisi@alfamidi.com` | `teknisi123` |
+| Teknisi 2 | `andi@alfamidi.com` | `teknisi123` |
 
 Setiap akun akan diarahkan ke menu sesuai perannya. Akun dan data awal tersebut didefinisikan di dalam `script.js`.
 
