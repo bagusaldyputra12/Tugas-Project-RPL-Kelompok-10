@@ -1,3 +1,9 @@
+# KELOMPOK 10
+1. ORLICON YALESWIRA WIDODO	F5512510004
+2. BAGUS ALDY PUTRA	F5512510009
+3. GRACIA MARSELINA F5512510024
+
+
 # Sistem Informasi Pelaporan Kerusakan Fasilitas Gerai Alfamidi
 
 Aplikasi web sederhana untuk simulasi pelaporan dan pengelolaan kerusakan fasilitas pada gerai Alfamidi. Aplikasi menyediakan tampilan dan menu berdasarkan peran pengguna, yaitu **Pelapor**, **Admin**, dan **Teknisi**.
